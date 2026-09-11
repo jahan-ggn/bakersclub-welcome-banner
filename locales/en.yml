@@ -1,0 +1,6 @@
+en:
+  theme_metadata:
+    description: Displays a personalized welcome message for logged-in users on the
+      Bakers Club homepage.
+    settings:
+      example_setting: A description of a setting.
